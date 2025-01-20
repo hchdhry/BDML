@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2025-01-20T23:01:27.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="xNJwMjpzMS2N1p7L2u2C" version="24.4.10" type="github">
+  <diagram name="Page-1" id="UPqwGXIuIdb4RDP-MWa9">
+    <mxGraphModel dx="5969" dy="1998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dwC30fj2xCrzJHsawLmF-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-1" target="dwC30fj2xCrzJHsawLmF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;risk management framework&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-965" y="-696" width="775" height="244" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-3" target="dwC30fj2xCrzJHsawLmF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-584.5" y="-161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-3" target="dwC30fj2xCrzJHsawLmF-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252.5" y="-156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-3" target="dwC30fj2xCrzJHsawLmF-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-192.8888888888889" y="-167.87861811391213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-3" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;AI Chatbot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1349" y="-314" width="422" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-14" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Data Privacy Risks&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;Training data exposure&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;Conversation logging breaches&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/ul&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2041" y="-63" width="207" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-15" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Model Security&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;Model poisoning attempts&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;Adversarial attacks&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/ul&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="-63" width="207" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-16" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Operational Risks&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;System availability&lt;/font&gt;&lt;/li&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;font size=&quot;3&quot;&gt;Response accuracy&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-911" y="2" width="207" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-17" target="dwC30fj2xCrzJHsawLmF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-17" target="dwC30fj2xCrzJHsawLmF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-17" target="dwC30fj2xCrzJHsawLmF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-17" target="dwC30fj2xCrzJHsawLmF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-17" value="&lt;p class=&quot;whitespace-pre-wrap break-words&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;RPA&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-587" y="-314" width="422" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-568" y="-459" as="sourcePoint" />
+            <mxPoint x="-1128" y="-304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-19" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;Process Security&lt;br/&gt;&lt;/b&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Privilege escalation&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Unauthorized access&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;p class=&quot;whitespace-pre-wrap break-words&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="31.5" width="188" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-21" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;Data Handling&lt;br/&gt;&lt;/b&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Data leakage&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Process manipulation&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;p class=&quot;whitespace-pre-wrap break-words&quot;&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="665" y="45" width="139" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-22" value="&lt;b&gt;Integration Risks&lt;br/&gt;&lt;/b&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;API vulnerabilities&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Third-party risks&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="45" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-27" value="&lt;p class=&quot;whitespace-pre-wrap break-words&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Mobile App&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-366" width="422" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-1" target="dwC30fj2xCrzJHsawLmF-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-393" y="-394.5" as="sourcePoint" />
+            <mxPoint x="-201" y="-249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-31" source="dwC30fj2xCrzJHsawLmF-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="-103" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-31" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;Authentication Risks&lt;/b&gt;&lt;br&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Session hijacking&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Credential theft&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1356" y="137" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-33" source="dwC30fj2xCrzJHsawLmF-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767.9999999999991" y="-185" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-33" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;Transaction Security&lt;/b&gt;&lt;br&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Man-in-the-middle attacks&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Payment fraud&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="173" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-35" source="dwC30fj2xCrzJHsawLmF-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="-168" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-35" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;&lt;b&gt;Client-Side Risks&lt;/b&gt;&lt;br&gt;&lt;ul depth=&quot;1&quot; class=&quot;[&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc space-y-1.5 pl-7&quot;&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;App reverse engineering&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Device compromises&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2315" y="80" width="161" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-40" source="dwC30fj2xCrzJHsawLmF-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1466.6570000000002" y="186.00400000000008" as="sourcePoint" />
+            <mxPoint x="-1151" y="357.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-40" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Training Data Exposure&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement strict access controls on training data.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Encrypt data at rest and in transit.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use synthetic or anonymized data for training.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Conversation Logging Breaches&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Store logs in secure, encrypted databases.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Set up role-based access controls (RBAC) for log retrieval.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Apply data retention policies to delete logs after a set period.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2896" y="2" width="660" height="393" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-44" source="dwC30fj2xCrzJHsawLmF-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1056" y="294" as="sourcePoint" />
+            <mxPoint x="-603" y="430.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-44" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Model Poisoning Attempts&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Validate training data integrity using checksum or blockchain techniques.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Regularly retrain models to identify and remove poisoned data.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Adversarial Attacks&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use adversarial training techniques to harden the model.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement input validation to detect and reject adversarial inputs.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2269" y="197" width="682" height="469" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-16" target="dwC30fj2xCrzJHsawLmF-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-806" y="231" as="sourcePoint" />
+            <mxPoint x="-789" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-48" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;System Availability&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Deploy a load balancer to handle traffic surges.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use failover mechanisms and redundant servers for uptime.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Response Accuracy&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Monitor model performance and feedback loops to identify biases or inaccuracies.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Regularly update and test models to improve response quality.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="271" width="671" height="373.55" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-51" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=52;endSize=13.72;entryX=0.491;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-19" target="dwC30fj2xCrzJHsawLmF-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-299" y="272" as="sourcePoint" />
+            <mxPoint x="-410" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-52" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Privilege Escalation&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Limit bot access to the least privileges necessary.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Monitor privilege escalation attempts with audit logs.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Unauthorized Access&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use bot authentication mechanisms such as API keys or OAuth tokens.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement network segmentation to isolate bot environments.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-996" y="585" width="769" height="357" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=52;endSize=13.72;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.326;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dwC30fj2xCrzJHsawLmF-22" target="dwC30fj2xCrzJHsawLmF-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-147" y="244" as="sourcePoint" />
+            <mxPoint x="-135" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-56" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;API Vulnerabiliti&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Conduct regular penetration testing on API endpoints.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Secure APIs with authentication, rate limiting, and input validation.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Third-Party Risks&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Assess third-party vendors for compliance with security standards.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use a secure token-based system for third-party integrations.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="298" width="669" height="522" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=52;endSize=13.72;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.326;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-61" source="dwC30fj2xCrzJHsawLmF-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="789" y="290" as="sourcePoint" />
+            <mxPoint x="715" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-61" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Leakage&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Encrypt sensitive data handled by bots.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Enforce strict access controls and use audit trails for monitoring.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Process Manipulation&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement integrity checks for bot scripts.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Regularly review and update bot workflows to align with security best practices.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="365" width="669" height="522" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=52;endSize=13.72;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.326;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-63" source="dwC30fj2xCrzJHsawLmF-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1525" y="398" as="sourcePoint" />
+            <mxPoint x="1505" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-63" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Session Hijacking&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement multi-factor authentication (MFA).&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use secure session cookies with HTTP-only and Secure flags.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Credential Theft&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Hash passwords with a strong algorithm (e.g., bcrypt).&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Employ rate-limiting to prevent brute-force attacks.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="619" width="613" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=52;endSize=13.72;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.326;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-65" source="dwC30fj2xCrzJHsawLmF-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1971" y="424" as="sourcePoint" />
+            <mxPoint x="2039" y="855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-65" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Man-in-the-Middle Attacks&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use TLS (Transport Layer Security) for encrypted communication.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Implement certificate pinning to verify server authenticity.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Payment Fraud&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use fraud detection systems powered by AI.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Monitor transaction patterns for anomalies and suspicious activities.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1686" y="745" width="613" height="358" as="geometry" />
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=52;endSize=13.72;exitX=0.656;exitY=1.058;exitDx=0;exitDy=0;entryX=0.326;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" target="dwC30fj2xCrzJHsawLmF-67" source="dwC30fj2xCrzJHsawLmF-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2486" y="320" as="sourcePoint" />
+            <mxPoint x="2640" y="841" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwC30fj2xCrzJHsawLmF-67" value="&lt;p&gt;&lt;/p&gt;&lt;h4&gt;&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;App Reverse Engineering&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Obfuscate code and encrypt critical parts of the application.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use tamper-detection tools to monitor app integrity.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;font size=&quot;3&quot;&gt;Device Compromises&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Require root/jailbreak detection in the app.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font size=&quot;3&quot;&gt;Use sandboxing techniques to limit app permissions.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;h4&gt;&lt;/h4&gt;&lt;/ol&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2338" y="640" width="613" height="358" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
